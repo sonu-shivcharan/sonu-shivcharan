@@ -11,6 +11,10 @@ I am currently learning backend development in JavaScript and exploring fullstac
 ## GitHub Stats
 ![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonu-shivcharan&show_icons=true&theme=dark)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sonu-shivcharan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-shivcharan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 ## Contact
 ### Let's Connect...
 - [LinkedIn](https://linkedin.com/in/sonushivcharan)
