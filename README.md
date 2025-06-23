@@ -41,7 +41,7 @@ I am a passionate **frontend web developer** who enjoys crafting user-friendly a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonu-shivcharan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=sonu-shivcharan&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-shivcharan&theme=dark" alt="Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-shivcharan&layout=compact&theme=radical" alt="Top Langs" />
 </p>
