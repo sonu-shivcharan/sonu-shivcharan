@@ -12,7 +12,7 @@ I am a passionate **frontend web developer** who enjoys crafting user-friendly a
 
 - 🔭 Currently building: **Tiffin Service Management App**
 - 🌱 Learning: **Next.js & Backend with Node.js**
-- 🧠 Exploring: Fullstack Development, MongoDB
+- 🧠 Exploring: Fullstack Development and AI
 
 
 ---
