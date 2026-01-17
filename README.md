@@ -3,7 +3,7 @@
 I’m a **fullstack web developer** focused on creating clean, fast, and functional web apps.  
 Currently learning **Next.js**, improving my **backend skills**, and exploring **AI-powered development**.
 
-- Working on: **Tiffin Service Management App**  
+
 - Learning: **Next.js, Node.js & Backend Architecture**  
 - Exploring: **AI Integration in Web Apps**
 
